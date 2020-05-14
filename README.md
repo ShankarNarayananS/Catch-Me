@@ -1,8 +1,8 @@
 <h1> Catch Me: Built using JS </h1>
 
-<p align="center">
-<img src="https://github.com/ShankarNarayananS/Catch-Me/blob/master/Try-to-catch-me.gif">
-</p>
+
+![]("https://github.com/ShankarNarayananS/Catch-Me/blob/master/Try-to-catch-me.gif)
+
 
 <h2>Objective</h2>
 <h4> To catch the moon as quickly as possible </h4>
