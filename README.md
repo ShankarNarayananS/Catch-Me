@@ -12,5 +12,5 @@
 <h4>2. Open index.html </h4>
 <h4>3. Start playing </h4>
 
-<h3> Or you could simply click <a href='https://zealous-carson-7e39eb.netlify.app/">here</a> </h3>
+<h3> Or you could simply click <a href="https://zealous-carson-7e39eb.netlify.app/">here</a> </h3>
 
