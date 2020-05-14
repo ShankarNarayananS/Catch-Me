@@ -1,7 +1,7 @@
 <h1> Catch Me: Built using JS </h1>
 
 
-![]("https://github.com/ShankarNarayananS/Catch-Me/blob/master/Try-to-catch-me.gif)
+![](https://github.com/ShankarNarayananS/Catch-Me/blob/master/Try-to-catch-me.gif)
 
 
 <h2>Objective</h2>
